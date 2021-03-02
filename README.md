@@ -6,3 +6,5 @@
 файлы override.tf, override.tf.json а так же любые названия таких файлов стоящих перед символом _
 исключаем файлы конфигурации вида .terraformrc и terraform.rc
 
+new line
+
